@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1{
+  color: rgb(108, 100, 22);
+  text-align: center;
+  font: 1em sans-serif;
+  
+}
+p{
+  color: rgb(135, 30, 100);
+  text-align: center;
+}
